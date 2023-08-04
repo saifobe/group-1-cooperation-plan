@@ -12,7 +12,7 @@
 
 - Mohammad Shahin : Mohammad has an engineering background, he is vary good in mathmatics and he is a good team member.
 
-- Sara Alkhateeb : Anas is a  network engineer and security specialist, he has a degree in network engineering and he is a good team member.
+- Sara Alkhateeb : Sara has a good experience in the field of programming and she is a good team member.
 
 - Mohammed Shareef : Team Leader
 
